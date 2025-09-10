@@ -1,4 +1,20 @@
 {
-  "rewards": [],
-  "lastUpdate": 0
+  "rewards": [
+    {
+      "id": "reward_4975603156_1757467742229",
+      "userId": 4975603156,
+      "username": "Zelvrax",
+      "reward": {
+        "thing": "Zelvrax",
+        "traits": [
+          "Meteor"
+        ],
+        "mutation": "BubbleGum"
+      },
+      "code": "ZELVRAX",
+      "timestamp": 1757467742229,
+      "redeemedBy": "857840089622511637"
+    }
+  ],
+  "lastUpdate": 1757467742496
 }
