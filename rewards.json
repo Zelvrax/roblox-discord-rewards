@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1757532523123,
+  "lastUpdate": 1757534155997,
   "rewards": [
     {
       "id": "reward_356302_1757532522867",
@@ -13,6 +13,19 @@
       "code": "LOSTRIOS",
       "timestamp": 1757532522867,
       "redeemedBy": "1101599817165176913"
+    },
+    {
+      "id": "reward_2792103004_1757534155730",
+      "userId": 2792103004,
+      "username": "lereloux2",
+      "reward": {
+        "thing": "Foufa",
+        "traits": [],
+        "mutation": "Default"
+      },
+      "code": "FOUFA",
+      "timestamp": 1757534155730,
+      "redeemedBy": "808363000041046066"
     }
   ]
 }
