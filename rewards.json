@@ -14,8 +14,23 @@
       "code": "LOSTHINGS",
       "timestamp": 1757465393220,
       "redeemedBy": "857840089622511637"
+    },
+    {
+      "id": "reward_4975603156_1757465498295",
+      "userId": 4975603156,
+      "username": "Zelvrax",
+      "reward": {
+        "thing": "KanekiTV",
+        "traits": [
+          "Meteor"
+        ],
+        "mutation": "Default"
+      },
+      "code": "KANEKITV",
+      "timestamp": 1757465498295,
+      "redeemedBy": "857840089622511637"
     }
   ],
-  "lastUpdate": 1757465393467,
+  "lastUpdate": 1757465498573,
   "lastCleanup": 1757465100915
 }
