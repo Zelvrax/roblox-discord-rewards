@@ -1,20 +1,5 @@
 {
-  "rewards": [
-    {
-      "id": "reward_4975603156_1757462830581",
-      "userId": 4975603156,
-      "username": "Zelvrax",
-      "reward": {
-        "thing": "Los Trios",
-        "traits": [
-          "Meteor"
-        ],
-        "mutation": "Default"
-      },
-      "code": "LOSTRIOSNUMBROS",
-      "timestamp": 1757462830581,
-      "redeemedBy": "857840089622511637"
-    }
-  ],
-  "lastUpdate": 1757462830816
+  "rewards": [],
+  "lastUpdate": 1757465100915,
+  "lastCleanup": 1757465100915
 }
