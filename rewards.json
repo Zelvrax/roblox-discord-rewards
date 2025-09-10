@@ -1,1 +1,18 @@
-{"lastUpdate":1757495864000,"rewards":[]}
+{
+  "lastUpdate": 1757532523123,
+  "rewards": [
+    {
+      "id": "reward_356302_1757532522867",
+      "userId": 356302,
+      "username": "Curd25 où Jujukirigm",
+      "reward": {
+        "thing": "Los Trios",
+        "traits": [],
+        "mutation": "Default"
+      },
+      "code": "LOSTRIOS",
+      "timestamp": 1757532522867,
+      "redeemedBy": "1101599817165176913"
+    }
+  ]
+}
