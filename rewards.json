@@ -1,1 +1,18 @@
-{"lastUpdate":1757470272000,"rewards":[]}
+{
+  "lastUpdate": 1757470449901,
+  "rewards": [
+    {
+      "id": "reward_4975603156_1757470449678",
+      "userId": 4975603156,
+      "username": "Zelvrax",
+      "reward": {
+        "thing": "Foufa",
+        "traits": [],
+        "mutation": "Default"
+      },
+      "code": "FOUFA",
+      "timestamp": 1757470449678,
+      "redeemedBy": "857840089622511637"
+    }
+  ]
+}
