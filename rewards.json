@@ -1,18 +1,1 @@
-{
-  "lastUpdate": 1757469945564,
-  "rewards": [
-    {
-      "id": "reward_4975603156_1757469945351",
-      "userId": 4975603156,
-      "username": "Zelvrax",
-      "reward": {
-        "thing": "Punisher",
-        "traits": [],
-        "mutation": "Default"
-      },
-      "code": "PUNISHER",
-      "timestamp": 1757469945351,
-      "redeemedBy": "857840089622511637"
-    }
-  ]
-}
+{"lastUpdate":1757470272000,"rewards":[]}
