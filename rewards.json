@@ -1,20 +1,4 @@
 {
-  "rewards": [
-    {
-      "id": "reward_4975603156_1757466323289",
-      "userId": 4975603156,
-      "username": "Zelvrax",
-      "reward": {
-        "thing": "KanekiTV",
-        "traits": [
-          "Meteor"
-        ],
-        "mutation": "BubbleGum"
-      },
-      "code": "KANEKI",
-      "timestamp": 1757466323289,
-      "redeemedBy": "857840089622511637"
-    }
-  ],
-  "lastUpdate": 1757466323604
+  "rewards": [],
+  "lastUpdate": 0
 }
