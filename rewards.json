@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1757565377243,
+  "lastUpdate": 1757582225843,
   "rewards": [
     {
       "username": "Curd25 où Jujukirigm",
@@ -26,6 +26,19 @@
       "code": "LOSTRIOS",
       "timestamp": 1757565376996,
       "redeemedBy": "857840089622511637"
+    },
+    {
+      "id": "reward_982181822_1757582225559",
+      "userId": 982181822,
+      "username": "noahscrackedd",
+      "reward": {
+        "thing": "Punisher",
+        "traits": [],
+        "mutation": "Default"
+      },
+      "code": "PUNISHER",
+      "timestamp": 1757582225560,
+      "redeemedBy": "506673189456314368"
     }
   ]
 }
