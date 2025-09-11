@@ -1,1 +1,31 @@
-{"lastUpdate":1757534419000,"rewards":[{"username":"Curd25 où Jujukirigm","redeemedBy":"1101599817165176913","code":"LOSTRIOS","id":"reward_356302_1757532522867","timestamp":1757532522867,"userId":356302,"reward":{"mutation":"Default","traits":[],"thing":"Los Trios"}}]}
+{
+  "lastUpdate": 1757565377243,
+  "rewards": [
+    {
+      "username": "Curd25 où Jujukirigm",
+      "redeemedBy": "1101599817165176913",
+      "code": "LOSTRIOS",
+      "id": "reward_356302_1757532522867",
+      "timestamp": 1757532522867,
+      "userId": 356302,
+      "reward": {
+        "mutation": "Default",
+        "traits": [],
+        "thing": "Los Trios"
+      }
+    },
+    {
+      "id": "reward_1349553635_1757565376996",
+      "userId": 1349553635,
+      "username": "Jujukirigm",
+      "reward": {
+        "thing": "Los Trios",
+        "traits": [],
+        "mutation": "Default"
+      },
+      "code": "LOSTRIOS",
+      "timestamp": 1757565376996,
+      "redeemedBy": "857840089622511637"
+    }
+  ]
+}
