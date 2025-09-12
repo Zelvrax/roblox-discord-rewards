@@ -1,1 +1,31 @@
-{"lastUpdate":1757683786000,"rewards":[{"username":"Curd25 où Jujukirigm","userId":356302,"code":"LOSTRIOS","id":"reward_356302_1757532522867","timestamp":1757532522867,"redeemedBy":"1101599817165176913","reward":{"mutation":"Default","thing":"Los Trios","traits":[]}}]}
+{
+  "lastUpdate": 1757694544378,
+  "rewards": [
+    {
+      "username": "Curd25 où Jujukirigm",
+      "userId": 356302,
+      "code": "LOSTRIOS",
+      "id": "reward_356302_1757532522867",
+      "timestamp": 1757532522867,
+      "redeemedBy": "1101599817165176913",
+      "reward": {
+        "mutation": "Default",
+        "thing": "Los Trios",
+        "traits": []
+      }
+    },
+    {
+      "id": "reward_2792103004_1757694544129",
+      "userId": 2792103004,
+      "username": "lereloux2",
+      "reward": {
+        "thing": "Kai Cenat",
+        "traits": [],
+        "mutation": "Default"
+      },
+      "code": "600VISITS",
+      "timestamp": 1757694544129,
+      "redeemedBy": "808363000041046066"
+    }
+  ]
+}
