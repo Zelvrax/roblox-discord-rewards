@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1758901409888,
+  "lastUpdate": 1758901492980,
   "rewards": [
     {
       "username": "Curd25 où Jujukirigm",
@@ -28,6 +28,21 @@
       "code": "700VISITS",
       "timestamp": 1758901409609,
       "redeemedBy": "808363000041046066"
+    },
+    {
+      "id": "reward_2974002644_1758901492725",
+      "userId": 2974002644,
+      "username": "khal_92230",
+      "reward": {
+        "thing": "Los Trios",
+        "traits": [
+          "Meteor"
+        ],
+        "mutation": "Default"
+      },
+      "code": "700VISITS",
+      "timestamp": 1758901492725,
+      "redeemedBy": "892758014912761857"
     }
   ]
 }
